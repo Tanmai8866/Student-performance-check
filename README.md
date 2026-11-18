@@ -34,7 +34,7 @@ Sign in with the student ID as the username and the matching name as the passwor
 | --- | --- |
 | `STU0601` | `RAJU` |
 | `STU0602` | `RAVI KIRAN` |
-| `STU0603` | `TANAMAI` |
+| `STU0603` | `TANMAI` |
 | `STU0604` | `BALA BHASKAR` |
 | `STU0605` | `ADITYA` |
 
